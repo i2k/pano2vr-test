@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18043" appversion="6.1.11" start="node11">
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelingpitch="-2.2538" levelingroll="6.83004" height="1520" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" overlap="1">
+      <level preload="0" width="1520" height="1520" predecode="0"/>
+      <level preload="0" width="760" height="760" predecode="0"/>
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-459.237" fovmode="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata tags="Downloads" comment="" customnodeid="" copyright="" latitude="35.71080135" title="医学部前広場" heading="-459.237" author="" info="" description="" datetime="2021/05/03 14:24" longitude="139.76159592" nodeid="node1" source=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" backgroundalpha="1" textalpha="1" background="1" borderradius="1" wordwrap="1" borderalpha="1" height="20" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" pan="-369.237" id="Point01" target="$fwd" title="医学部前広場" tilt="0" url="{node1}" description=""/>
+      <hotspot skinid="ht_node" pan="-369.237" id="Point02" target="$fwd" title="医学部前広場" tilt="0" url="{node1}" description=""/>
+      <hotspot skinid="ht_node" pan="-447.716" id="Point03" target="-98.2857/0/100" title="" distance="37.1346" tilt="0" url="{node2}" description=""/>
+      <hotspot skinid="ht_node" pan="-357.188" id="Point04" target="80.2959/0/100" title="教育学部" distance="51.9095" tilt="0" url="{node12}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" zoomafterinfov="90" softedge="0" zoomin="0" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomspeed="2" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" hideabout="0" speedwheel="1" lockedwheel="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelingpitch="0" levelingroll="0" height="1520" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" overlap="1">
+      <level preload="0" width="1520" height="1520" predecode="0"/>
+      <level preload="0" width="760" height="760" predecode="0"/>
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-110.959" fovmode="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata tags="Downloads" comment="" customnodeid="" copyright="" latitude="35.71112858" title="" heading="-110.959" author="" info="" description="" datetime="2021/05/03 14:25" longitude="139.76151377" nodeid="node2" source=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" backgroundalpha="1" textalpha="1" background="1" borderradius="1" wordwrap="1" borderalpha="1" height="20" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" pan="-279.437" id="Point01" target="-375.254/0/100" title="医学部前広場" distance="37.1346" tilt="0" url="{node1}" description=""/>
+      <hotspot skinid="ht_node" pan="-98.2857" id="Point02" target="-90.9979/0/100" title="弓道場" distance="25.9388" tilt="0" url="{node3}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" zoomafterinfov="90" softedge="0" zoomin="0" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomspeed="2" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" hideabout="0" speedwheel="1" lockedwheel="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelingpitch="0" levelingroll="0" height="1520" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" overlap="1">
+      <level preload="0" width="1520" height="1520" predecode="0"/>
+      <level preload="0" width="760" height="760" predecode="0"/>
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="256.083" fovmode="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata tags="Downloads" comment="" customnodeid="" copyright="" latitude="35.71135617" title="弓道場" heading="256.083" author="" info="" description="" datetime="2021/05/03 14:27" longitude="139.76145074" nodeid="node3" source=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" backgroundalpha="1" textalpha="1" background="1" borderradius="1" wordwrap="1" borderalpha="1" height="20" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" pan="88.7564" id="Point01" target="-279.437/0/100" title="" distance="25.9388" tilt="0" url="{node2}" description=""/>
+      <hotspot skinid="ht_node" pan="269.002" id="Point02" target="-62.4134/0/100" title="情報学環" distance="61.7416" tilt="0" url="{node4}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" zoomafterinfov="90" softedge="0" zoomin="0" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomspeed="2" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" hideabout="0" speedwheel="1" lockedwheel="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelingpitch="0" levelingroll="0" height="1520" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" overlap="1">
+      <level preload="0" width="1520" height="1520" predecode="0"/>
+      <level preload="0" width="760" height="760" predecode="0"/>
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-74.8" fovmode="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata tags="Downloads" comment="" customnodeid="" copyright="" latitude="35.71189737" title="情報学環" heading="-74.8" author="" info="" description="" datetime="2021/05/03 14:27" longitude="139.76129785" nodeid="node4" source=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" backgroundalpha="1" textalpha="1" background="1" borderradius="1" wordwrap="1" borderalpha="1" height="20" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" pan="-241.881" id="Point01" target="88.7564/0/100" title="弓道場" distance="61.7416" tilt="0" url="{node3}" description=""/>
+      <hotspot skinid="ht_node" pan="-62.4134" id="Point02" target="15.2085/0/100" title="文学部3号館" distance="26.5293" tilt="0" url="{node5}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" zoomafterinfov="90" softedge="0" zoomin="0" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomspeed="2" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" hideabout="0" speedwheel="1" lockedwheel="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelingpitch="0" levelingroll="0" height="1520" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" overlap="1">
+      <level preload="0" width="1520" height="1520" predecode="0"/>
+      <level preload="0" width="760" height="760" predecode="0"/>
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-87.8265" fovmode="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata tags="Downloads" comment="" customnodeid="" copyright="" latitude="35.71213040" title="文学部3号館" heading="-87.8265" author="" info="" description="" datetime="2021/05/03 14:29" longitude="139.76123482" nodeid="node5" source=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" backgroundalpha="1" textalpha="1" background="1" borderradius="1" wordwrap="1" borderalpha="1" height="20" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" pan="-255.44" id="Point01" target="-241.881/0/100" title="情報学環" distance="26.5293" tilt="0" url="{node4}" description=""/>
+      <hotspot skinid="ht_node" pan="15.2085" id="Point02" target="-1.56485/0/100" title="総合図書館" distance="52.0753" tilt="0" url="{node6}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" zoomafterinfov="90" softedge="0" zoomin="0" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomspeed="2" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" hideabout="0" speedwheel="1" lockedwheel="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelingpitch="0" levelingroll="0" height="1520" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" overlap="1">
+      <level preload="0" width="1520" height="1520" predecode="0"/>
+      <level preload="0" width="760" height="760" predecode="0"/>
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-103.157" fovmode="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata tags="Downloads" comment="" customnodeid="" copyright="" latitude="35.71202477" title="総合図書館" heading="-103.157" author="" info="" description="" datetime="2021/05/03 14:30" longitude="139.76067290" nodeid="node6" source=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" backgroundalpha="1" textalpha="1" background="1" borderradius="1" wordwrap="1" borderalpha="1" height="20" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" pan="-180.122" id="Point01" target="-255.44/0/100" title="文学部3号館" distance="52.0753" tilt="0" url="{node5}" description=""/>
+      <hotspot skinid="ht_node" pan="-1.56485" id="Point02" target="90.2844/0/100" title="法学部4号館" distance="33.7438" tilt="0" url="{node7}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" zoomafterinfov="90" softedge="0" zoomin="0" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomspeed="2" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" hideabout="0" speedwheel="1" lockedwheel="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelingpitch="0" levelingroll="0" height="1520" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" overlap="1">
+      <level preload="0" width="1520" height="1520" predecode="0"/>
+      <level preload="0" width="760" height="760" predecode="0"/>
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-11.3146" fovmode="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata tags="Downloads" comment="" customnodeid="" copyright="" latitude="35.71196379" title="法学部4号館" heading="-11.3146" author="" info="" description="" datetime="2021/05/03 14:31" longitude="139.76030678" nodeid="node7" source=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" backgroundalpha="1" textalpha="1" background="1" borderradius="1" wordwrap="1" borderalpha="1" height="20" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" pan="-89.7222" id="Point01" target="-180.122/0/100" title="総合図書館" distance="33.7438" tilt="0" url="{node6}" description=""/>
+      <hotspot skinid="ht_node" pan="90.2844" id="Point02" target="-94.6272/0/100" title="福武ホール" distance="18.665" tilt="0" url="{node8}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" zoomafterinfov="90" softedge="0" zoomin="0" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomspeed="2" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" hideabout="0" speedwheel="1" lockedwheel="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelingpitch="0" levelingroll="0" height="1520" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" overlap="1">
+      <level preload="0" width="1520" height="1520" predecode="0"/>
+      <level preload="0" width="760" height="760" predecode="0"/>
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="73.0996" fovmode="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata tags="Downloads" comment="" customnodeid="" copyright="" latitude="35.71193004" title="福武ホール" heading="73.0996" author="" info="" description="" datetime="2021/05/03 14:32" longitude="139.76010427" nodeid="node8" source=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" backgroundalpha="1" textalpha="1" background="1" borderradius="1" wordwrap="1" borderalpha="1" height="20" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" pan="-5.30125" id="Point01" target="-89.7222/0/100" title="法学部4号館" distance="18.665" tilt="0" url="{node7}" description=""/>
+      <hotspot skinid="ht_node" pan="-94.6272" id="Point02" target="-85.2545/0/100" title="総合図書館" distance="35.3165" tilt="0" url="{node9}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" zoomafterinfov="90" softedge="0" zoomin="0" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomspeed="2" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" hideabout="0" speedwheel="1" lockedwheel="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelingpitch="0" levelingroll="0" height="1520" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" overlap="1">
+      <level preload="0" width="1520" height="1520" predecode="0"/>
+      <level preload="0" width="760" height="760" predecode="0"/>
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="81.8476" fovmode="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata tags="Downloads" comment="" customnodeid="" copyright="" latitude="35.71161969" title="総合図書館" heading="81.8476" author="" info="" description="" datetime="2021/05/03 14:33" longitude="139.76018742" nodeid="node9" source=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" backgroundalpha="1" textalpha="1" background="1" borderradius="1" wordwrap="1" borderalpha="1" height="20" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" pan="94.1207" id="Point01" target="-5.30125/0/100" title="福武ホール" distance="35.3165" tilt="0" url="{node8}" description=""/>
+      <hotspot skinid="ht_node" pan="-85.2545" id="Point02" target="-87.6561/0/100" title="史料編纂所" distance="59.1275" tilt="0" url="{node10}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" zoomafterinfov="90" softedge="0" zoomin="0" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomspeed="2" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" hideabout="0" speedwheel="1" lockedwheel="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelingpitch="0" levelingroll="0" height="1520" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" overlap="1">
+      <level preload="0" width="1520" height="1520" predecode="0"/>
+      <level preload="0" width="760" height="760" predecode="0"/>
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="80.016" fovmode="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata tags="Downloads" comment="" customnodeid="" copyright="" latitude="35.71110136" title="史料編纂所" heading="80.016" author="" info="" description="" datetime="2021/05/03 14:34" longitude="139.76033360" nodeid="node10" source=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" backgroundalpha="1" textalpha="1" background="1" borderradius="1" wordwrap="1" borderalpha="1" height="20" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" pan="92.9139" id="Point01" target="94.1207/0/100" title="総合図書館" distance="59.1275" tilt="0" url="{node9}" description=""/>
+      <hotspot skinid="ht_node" pan="-87.6561" id="Point02" target="-0.661572/0/100" title="赤門" distance="56.146" tilt="0" url="{node11}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" zoomafterinfov="90" softedge="0" zoomin="0" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomspeed="2" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" hideabout="0" speedwheel="1" lockedwheel="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelingpitch="0" levelingroll="0" height="1520" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" overlap="1">
+      <level preload="0" width="1520" height="1520" predecode="0"/>
+      <level preload="0" width="760" height="760" predecode="0"/>
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="77.5857" fovmode="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata tags="Downloads" comment="" customnodeid="" copyright="" latitude="35.71060807" title="赤門" heading="77.5857" author="" info="" description="" datetime="2021/05/03 14:35" longitude="139.76046637" nodeid="node11" source=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" backgroundalpha="1" textalpha="1" background="1" borderradius="1" wordwrap="1" borderalpha="1" height="20" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" pan="89.9135" id="Point01" target="92.9139/0/100" title="史料編纂所" distance="56.146" tilt="0" url="{node10}" description=""/>
+      <hotspot skinid="ht_node" pan="-0.661572" id="Point02" target="-99.4074/0/100" title="教育学部" distance="52.315" tilt="0" url="{node12}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" zoomafterinfov="90" softedge="0" zoomin="0" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomspeed="2" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" hideabout="0" speedwheel="1" lockedwheel="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelingpitch="0" levelingroll="0" height="1520" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" overlap="1">
+      <level preload="0" width="1520" height="1520" predecode="0"/>
+      <level preload="0" width="760" height="760" predecode="0"/>
+      <level preload="1" width="380" height="380" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-21.4565" fovmode="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata tags="Downloads" comment="" customnodeid="" copyright="" latitude="35.71070390" title="教育学部" heading="-21.4565" author="" info="" description="" datetime="2021/05/03 14:36" longitude="139.76103365" nodeid="node12" source=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" backgroundcolor="0xffffff" width="180" bordercolor="0x000000" backgroundalpha="1" textalpha="1" background="1" borderradius="1" wordwrap="1" borderalpha="1" height="20" border="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1"/>
+      <hotspot skinid="ht_node" pan="80.2959" id="Point01" target="89.9135/0/100" title="赤門" distance="52.315" tilt="0" url="{node11}" description=""/>
+      <hotspot skinid="ht_node" pan="-99.4074" id="Point02" target="-465.782/0/100" title="医学部前広場" distance="51.9095" tilt="0" url="{node1}" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" type="crossdissolve" zoomafterinfov="90" softedge="0" zoomin="0" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomspeed="2" enabled="1" zoomfov="20" blendtime="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control rubberband="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" hideabout="0" speedwheel="1" lockedwheel="0" simulatemass="1" lockedmouse="0" invertcontrol="1" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" comment="" customnodeid="" copyright="" latitude="" title="" heading="0" author="" info="" description="" datetime="" longitude="" nodeid="master" source=""/>
+  </masternode>
+</tour>
